@@ -3,7 +3,7 @@ Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("-----------------------------");
 Console.WriteLine("Desenvolva o seu personagem!!");
 Console.WriteLine("-----------------------------");
-Console.WriteLine("ESCOLHA SUA CLASSE:\nGuerreira\nMago\nArqueira");
+Console.WriteLine("ESCOLHA SUA CLASSE:\nGuerreira\nMago\nArqueiro");
 
 string classe = Console.ReadLine();
 Console.ForegroundColor = ConsoleColor.Red;
